@@ -2,15 +2,12 @@ ID,Docstatus,Installation_Date,Customer,Owner,Status,Remarks,Creation,Item_Code,
 INST0139,1,2019-01-02,Shai Osudoku District Hospital,patrina.otoo@dcllabx.com,Submitted,Installation and user training completed.,2023-05-04 10:45:26,ND 8,1,Outright,Non- Analyzer,12 Months,2019-01-02
 INST0140,1,2019-01-18,KWATIRE POLYCLINIC,patrina.otoo@dcllabx.com,Submitted,"installation and user training completed
 
-Serial Number ; 642217",2023-05-04 10:50:53,A380,1,Retrived,Analyzer,12 Months,2019-01-18
+Serial Number ; 642217",2023-05-04 10:50:53,A380,1,Placement( To be picked),Analyzer,12 Months,2019-01-18
 INST0148,1,2019-03-29,Kintampo Health Research Centre,patrina.otoo@dcllabx.com,Submitted,"serial number, BKQ 5011 1812508",2023-05-12 9:57:26,BKQ-B50II,1,Outright,Non- Analyzer,12 Months,2019-03-29
 INST0116,1,2019-04-08,The Bank Hospital,patrina.otoo@dcllabx.com,Submitted,serial number'; 18-9613,2023-04-28 10:53:18,6003 542,1,Outright,Analyzer,12 Months,2019-04-08
 INST0124,1,2019-05-03,AngloGold Ashanti Health Foundation,patrina.otoo@dcllabx.com,Submitted,"serial number ; 
 
 Installation and user training completed",2023-04-28 12:59:01,AB 5,1,Outright,Non- Analyzer,12 Months,2019-05-03
-INST0118,1,2019-08-14,Effia Nkwanta Regional Hospital,patrina.otoo@dcllabx.com,Submitted,"serial number; 18-9625
-
-Installation and user training Completed.",2023-04-28 12:10:40,6003-542,1,Outright,Analyzer,12 Months,2019-08-14
 INST0001,1,2019-10-24,Iran Clinic,ernest.boasiako@dcllabx.com,Submitted,DONATION OF XPERT HIV-1 Qual to AURUM PROJECT- GHANA.,2019-10-24 11:23:40,HIV-1 Qual,20,Outright,Non- Analyzer,12 Months,2019-10-24
 INST0132,1,2019-11-13,Biriwa Polyclinic,patrina.otoo@dcllabx.com,Submitted,"serial number - 642826
 
@@ -24,18 +21,14 @@ INST0003,1,2020-02-14,University Hospital,elsie.kafui@dcllabx.com,Submitted,Inst
 INST0004,1,2020-03-24,Goaso Municipal Hospital,elsie.kafui@dcllabx.com,Submitted,"Installation and end user training of A380 
 ",2020-03-24 11:57:01,A380,1,#,Analyzer,12 Months,2020-03-24
 INST0005,1,2020-04-24,Police Hospital,elsie.kafui@dcllabx.com,Submitted,"-Installation and User Training of Selectra Pro-S
--Installation of UPS",2020-04-24 16:44:19,6003-543,1,Outright,Analyzer,12 Months,2020-04-24
+-Installation of UPS",2020-04-24 16:44:19,6003-543,1,Retrieved,Analyzer,12 Months,2020-04-24
 INST0150,1,2020-06-23,St. Dominic Hospital,patrina.otoo@dcllabx.com,Submitted,Serial number 05-4892,2023-05-12 10:43:36,NF 800,1,Outright,Non- Analyzer,12 Months,2020-06-23
 INST0006,1,2020-06-23,St. Dominic Hospital,elsie.kafui@dcllabx.com,Submitted,Installation and End-User training of NF 800 Centrifuge,2020-06-24 11:36:30,NF 800,1,Outright,Non- Analyzer,12 Months,2020-06-23
-INST0007,1,2020-07-06,University of Ghana,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2020-07-06 9:26:31,0-DD- SMARTLYTE,1,Placement,Analyzer,6 Months,2020-07-06
-INST0008,1,2020-07-09,Police Hospital,elsie.kafui@dcllabx.com,Submitted,Installation of ISE unit,2020-07-09 10:40:22,S001,1,Placement,Analyzer,6 Months,2020-07-09
+INST0007,1,2020-07-06,University Hospital,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2020-07-06 9:26:31,0-DD- SMARTLYTE,1,Placement,Analyzer,6 Months,2020-07-06
+INST0008,1,2020-07-09,Police Hospital,elsie.kafui@dcllabx.com,Submitted,Installation of ISE unit,2020-07-09 10:40:22,S001,1,Retrieved,Analyzer,6 Months,2020-07-09
 INST0009,1,2020-07-10,Shukura Community Hospital,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2020-07-10 16:09:35,A380,1,Retrieved,Analyzer,12 Months,2020-07-10
-INST0131,1,2020-07-23,Takoradi (European) Hospital,patrina.otoo@dcllabx.com,Submitted,"serial number; 20-9627
-
-
-Installation and user training ",2023-04-28 14:31:26,6003 542,1,#,Analyzer,12 Months,2020-07-23
 INST0012,1,2020-07-23,Takoradi (European) Hospital,kwame.baah@dcllabx.com,Submitted,Installation and user training successful,2020-08-19 8:59:54,6003-542,1,Placement,Analyzer,6 Months,2020-07-23
-INST0010,1,2020-07-29,Rahma Hospital,elsie.kafui@dcllabx.com,Submitted,Installation and User training,2020-07-29 9:25:23,A380,1,Placement,Analyzer,6 Months,2020-07-29
+INST0010,1,2020-07-29,Rahma Hospital,elsie.kafui@dcllabx.com,Submitted,Installation and User training,2020-07-29 9:25:23,A380,1,Placement,Analyzer,6 Months,2021-03-03
 INST0011,1,2020-08-17,University of Ghana,elsie.kafui@dcllabx.com,Submitted,Two medical refrigerators were successfully installed.,2020-08-17 17:12:48,Medical Refrigerator,2,Outright,Non- Analyzer,12 Months,2020-08-17
 INST0013,0,2020-08-28,Trust Hospital,michael.frimpong@dcllabx.com,Draft,Installation was successful,2020-08-28 10:37:06,BKM-P24III,1,Outright,Non- Analyzer,12 Months,2020-08-28
 INST0014,1,2020-09-10,Agona Swedru Municipal Hospital,kwame.baah@dcllabx.com,Submitted,"Installation of pro s with serial number 20-9625
@@ -56,12 +49,12 @@ INST0023,1,2021-01-29,Ada East District Hospital,elsie.kafui@dcllabx.com,Submitt
 -Calibration, 3-level controls and patient samples run passed successfully",2021-02-04 8:55:14,0-DD-SMARTLYTEPLUS,1,Outright,Analyzer,12 Months,2021-01-29
 INST0125,1,2021-02-01,AngloGold Ashanti Health Foundation,patrina.otoo@dcllabx.com,Submitted,serial number; BSC11A200061959,2023-04-28 13:02:38,BSC-1500IIB2,1,Outright,Non- Analyzer,12 Months,2021-02-01
 INST0026,1,2021-03-01,AngloGold Ashanti Health Foundation,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2021-03-17 12:35:16,BSC1200IIA2 Z,1,Outright,Non- Analyzer,12 Months,2021-03-01
-INST0024,1,2021-03-11,AMAMORLEY HEALTH CENTRE,michael.frimpong@dcllabx.com,Submitted,"Installation and User Training done successfully on an Abacus 380 with serial number 642837 on 10th March ,2021 at Amamorley Govt. Hospital",2021-03-11 10:49:21,A380,1,Placement (To be picked ),Analyzer,6 Months,2021-03-11
+INST0024,1,2021-03-11,AMAMORLEY HEALTH CENTRE,michael.frimpong@dcllabx.com,Submitted,"Installation and User Training done successfully on an Abacus 380 with serial number 642837 on 10th March ,2021 at Amamorley Govt. Hospital",2021-03-11 10:49:21,A380,1,Placement (To be picked),Analyzer,6 Months,2021-03-11
 INST0025,1,2021-03-12,Impact Diagnostic & Medical Center,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2021-03-12 9:46:29,DW-FL-90,1,Outright,Non- Analyzer,12 Months,2021-03-12
 INST0027,1,2021-03-19,Simon Colvin,elsie.kafui@dcllabx.com,Submitted,Installation of medical refrigerator MERLIN,2021-03-19 15:45:29,2~8oC/-10~-40oC,1,Outright,Non- Analyzer,12 Months,2021-03-19
 INST0028-1,2,2021-03-22,Damang Mine Lab,elsie.kafui@dcllabx.com,Cancelled,"Haier Class II B2 BSC, HR40-11B2 (Saftey Cabinet) with serial number BE03C 2E060 OQHLB G0001 was installed by Mr. Emmanuel Attah on the 20th of March,2021 at the Damang Mines PCR lab. Also, intense user training was successfully done",2021-03-22 17:25:41,BSC-1300IIB2,1,Outright,Non- Analyzer,12 Months,2021-03-22
 INST0029,1,2021-03-22,GoldFields Limited,michael.frimpong@dcllabx.com,Submitted,"Haier Class II B2 BSC, HR40-11B2 (Saftey Cabinet) with serial number BE03C 2E060 OQHLB G0001 was installed by Mr. Emmanuel Attah on the 20th of March,2021 at the Damang Mines PCR lab. Also, intense user training was successfully done",2021-03-22 17:11:15,BSC-1300IIB2-X,1,Outright,Non- Analyzer,12 Months,2021-03-22
-INST0030,1,2021-04-08,University of Ghana,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2021-04-08 9:40:15,GeneXpert IV,1,Placement,Analyzer,6 Months,2021-04-08
+INST0030,1,2021-04-08,University of Ghana,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2021-04-08 9:40:15,GeneXpert IV,1,Outright,Analyzer,6 Months,2021-04-08
 INST0030,1,2021-04-08,University of Ghana,elsie.kafui@dcllabx.com,Submitted,Installation was successful,2021-04-08 9:40:15,CSL-COMBIBOX-MINI,2,Outright,Non- Analyzer,12 Months,2021-04-08
 INST0031,1,2021-04-23,G2 Medical Laboratory Service,elsie.kafui@dcllabx.com,Submitted,Installation and end-user training of SMARTLYTE PLUS ISE analyzer,2021-04-26 15:44:06,0-DD-SMARTLYTEPLUS,1,Outright,Analyzer,12 Months,2021-04-23
 INST0032,1,2021-04-26,Canadian High Commission,elsie.kafui@dcllabx.com,Submitted,Installation of -40 merlin laboratory freezer,2021-04-26 16:01:36,DW-FL-90,1,Outright,Non- Analyzer,12 Months,2021-04-26
@@ -124,7 +117,7 @@ INST0067,1,2022-03-16,Police Hospital,elsie.kafui@dcllabx.com,Submitted,Installa
 INST0069,1,2022-03-17,Cape Coast Teaching Hospital,elsie.kafui@dcllabx.com,Submitted,Installation and user training on Selectra Pro-XL,2022-03-18 8:59:25,6003 702,1,Placement,Analyzer,6 Months,2022-03-17
 INST0121,1,2022-03-19,Effia Nkwanta Regional Hospital,patrina.otoo@dcllabx.com,Submitted,"serial number; 20-9683
 
-Installation ( replacement of Pro s)",2023-04-28 12:36:25,6003 542,1,Placement,Analyzer,6 Months,2022-03-19
+Installation ( replacement of Pro s)",2023-04-28 12:36:25,6003 542,1,Placement,Analyzer,6 Months,2023-07-19
 INST0075,1,2022-03-24,Navrongo Health Research centre,elsie.kafui@dcllabx.com,Submitted,Installation and training of Merlin -80 freezer,2022-04-07 9:40:29,DW-HL528S,1,Outright,Non- Analyzer,12 Months,2022-03-24
 INST0071,1,2022-03-25,IOM (International Organization for Migration),michael.frimpong@dcllabx.com,Submitted,"Installation , Calibration, and user training successfully done ",2022-03-25 9:24:05,BSC-1300IIB2,1,Outright,Non- Analyzer,12 Months,2022-03-25
 INST0073,1,2022-04-01,University of Ghana,michael.oduro@dcllabx.com,Submitted,Set up and installation of micro centrifuge successful,2022-04-04 8:39:19,5425G,1,Outright,Non- Analyzer,12 Months,2022-04-01
@@ -143,7 +136,7 @@ Serial number: 590550",2022-08-02 10:10:03,11888856,1,Outright,Non- Analyzer,12 
 INST0084,1,2022-08-25,2 Medical Reception Station (2MRS),kwame.baah@dcllabx.com,Submitted,"Installation and user training successfully done.
 
 SN: K11052033020",2022-08-29 10:00:45,ELite 580,1,Placement,Analyzer,6 months,2022-08-25
-INST0089,1,2022-09-15,"New Crystal Hospital, Takoradi",theophilus.lartey@dcllabx.com,Submitted,20-9668,2022-09-19 9:17:59,6003-543,1,Placement,Analyzer,6 months,2022-09-15
+INST0089,1,2022-09-15,"New Crystal Hospital, Takoradi",theophilus.lartey@dcllabx.com,Submitted,20-9668,2022-09-19 9:17:59,6003-543,1,Placement,Analyzer,6 months,2024-04-05
 INST0090,1,2022-09-16,Presbyterian Hospital,michael.oduro@dcllabx.com,Submitted,"Set up, installation and end user training was successfully completed on smartlyte Plus.
 
 SN - 44-211001451",2022-09-19 15:20:57,0-DD-SMARTLYTEPLUS,1,Outright,Analyzer,12 Months,2022-09-16
@@ -165,7 +158,7 @@ INST0097,1,2023-01-23,University Hospital,cecil.ayeebo@dcllabx.com,Submitted,"Se
 Installation and user training completed.",2023-01-23 14:37:39,A5 1,1,Outright,Non- Analyzer,12 Months,2023-01-23
 INST0098,1,2023-02-03,Deseret Hospital,michael.oduro@dcllabx.com,Submitted,"Installation and Training of analyzer was successfully completed.
 
-S.N. K11052025057",2023-02-06 8:49:30,ELite 580,1,Placement,Analyzer,6 months,2023-02-03
+S.N. K11052025057",2023-02-06 8:49:30,ELite 580,1,Placement,Analyzer,6 months,2024-02-20
 INST0099,1,2023-02-15,Ashesi University,cecil.ayeebo@dcllabx.com,Submitted,"Installation of the water purification system and user training was done successfully. 
 
 Serial Number for Elix 3UV - F9PA20207",2023-02-15 14:52:22,Synergy® Kit UK,1,Outright,Non- Analyzer,12 Months,2023-02-15
@@ -204,8 +197,8 @@ Installation and user training completed",2023-04-28 14:21:58,MPL,1,Outright,Non
 INST0122,1,2023-04-28,UNIVERSITY OF EDUCATION WINNIBA- kumasi campus,patrina.otoo@dcllabx.com,Submitted,"Serial number ; 44-210301084
 
 installation and user training completed",2023-04-28 12:41:42,0-DD-SMARTLYTEPLUS,1,Outright,Analyzer,12 Months,2023-04-28
-INST0117,1,2023-04-28,The Bank Hospital,patrina.otoo@dcllabx.com,Submitted,Serial number ; 17-9668,2023-04-28 11:04:12,S001,1,Placement,Analyzer,6 months,2023-04-28
-INST0152,1,2023-05-11,Takoradi (European) Hospital,patrina.otoo@dcllabx.com,Submitted,Serial number ; 44211001433,2023-05-16 9:32:20,0-DD-SMARTLYTEPLUS,1,Outright,Analyzer,12 Months,2023-05-11
+INST0117,1,2023-04-28,The Bank Hospital,patrina.otoo@dcllabx.com,Submitted,Serial number ; 17-9668,2023-04-28 11:04:12,S001,1,Outright,Analyzer,6 months,2023-04-28
+INST0152,1,2023-05-11,Takoradi (European) Hospital,patrina.otoo@dcllabx.com,Submitted,Serial number ; 44211001433,2023-05-16 9:32:20,0-DD-SMARTLYTEPLUS,1,Placement,Analyzer,6 Months,2024-04-24
 INST0153,1,2023-05-17,Adabraka polyclinic,emmanuel.gyan@dcllabx.com,Submitted,"Installation for temporal usage...
 Serial Number: 641936
 ",2023-05-17 15:51:01,A380,1,Sold,Analyzer,12 Months,2023-05-17
